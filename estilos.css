@@ -1,0 +1,26 @@
+body{
+    background-color: violet;
+}
+a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}a:hover{
+    color: black;
+    text-decoration: underline;
+}
+h1{
+    color: white;
+}
+
+h2{
+    color: #640a5e;
+}
+table{
+    border-color: black;
+    border-radius: 10px;
+}
+
+ul li {
+    color: #640a5e;
+}
